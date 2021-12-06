@@ -1,4 +1,0 @@
-HPING 37.59.174.235 (eth0 37.59.174.235): S set, 40 headers + 0 data bytes
-HPING 37.59.174.235 (eth0 37.59.174.235): S set, 40 headers + 0 data bytes
-HPING 37.59.174.235 (eth0 37.59.174.235): S set, 40 headers + 0 data bytes
-HPING 37.59.174.235 (eth0 37.59.174.235): S set, 40 headers + 0 data bytes
