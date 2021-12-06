@@ -1,5 +1,7 @@
 # knocking-ports
 
-<img src=images/0.png />
-<img src=images/1.png />
-<img src=images/2.png />
+                    ######################################################
+                    | ->	  KNOCKING PORTS - v1.0.0	                  <- |
+                    | ->	  D.4.G.U.R.4.S.U - DOUGLAS SOUZA	          <- |
+                    | ->	Example: 0$ 192.168.0.1 20 22 80 90 443	    <- |
+                    ######################################################
